@@ -1,7 +1,5 @@
 from collections import deque
 
-from collections import deque
-
 def find_distance_to_guards(grid):
     if not grid: return []
     
@@ -40,6 +38,7 @@ def find_distance_to_guards(grid):
                 res[r][c] = -1
                 
     return res
+
 test_cases = [
     {
         "name": "Standard Mix",
