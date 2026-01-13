@@ -1,1 +1,2 @@
-# fev
+# Problem
+You are given a museum is organized as a grid of rooms. The grid is M rows by N columns. If there is a person in a given room, they can travel to adjacent rooms (up, left, right, down). If they are in a room at the edge of the room, they may not travel across the edge. Some rooms are closed and people cannot travel to or through them. The museum has a number of guards placed throughout the museum. There is no way in or out of the museum, so guards can only travel within the museum.
